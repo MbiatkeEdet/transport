@@ -19,7 +19,7 @@ const stats = [
   },
   {
     name: 'Revenue',
-    value: '$12,456',
+    value: '$12,450',
     change: '+8%',
     changeType: 'positive',
     icon: CreditCard,
@@ -27,7 +27,7 @@ const stats = [
   {
     name: 'Completion Rate',
     value: '94%',
-    change: '+2%',
+    change: '+5%',
     changeType: 'positive',
     icon: TrendingUp,
   },
